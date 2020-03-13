@@ -188,11 +188,13 @@ td.menu_td2 a:hover{
   font-weight: normal;
 }
 
+.status_chef_d_equipe,
 .statut_chef_d_equipe,
 .statut_chef_magasinier,
 .statut_chefs_magasiniers,
 .statut_magasinier_en_chef,
 .statut_magasiniers_en_chef,
+.status_chef_d_equipe > td > .menudiv-nom,
 .statut_chef_d_equipe > td > .menudiv-nom,
 .statut_chef_magasinier > td > .menudiv-nom,
 .statut_chefs_magasiniers > td > .menudiv-nom,
