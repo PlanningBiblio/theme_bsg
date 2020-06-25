@@ -368,6 +368,7 @@ a:hover.menuRed, a:hover.menu {
 }
 
 .vert.tr_horaires, .ab.tr_horaires,
+.vert.tr_horaires a,
 .vert.tr_separation, .ab.tr_separation {
   background: #3b772e;
 }
