@@ -382,3 +382,7 @@ a:hover.menuRed, a:hover.menu {
 .bg-yellow{
   background:transparent;
 }
+
+.ejsmenu2.active {
+    color: #ffffff;
+}
